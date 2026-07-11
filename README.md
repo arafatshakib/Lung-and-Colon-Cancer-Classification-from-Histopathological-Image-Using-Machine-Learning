@@ -9,7 +9,7 @@
 
 ---
 
-## 👥 Group Members
+##  Group Members
 
 | Name | Student ID |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project develops an **automated cancer classification system** that identifies lung and colon cancer types from histopathological images using a deep learning model. The system is built on a **VGGNet-inspired Convolutional Neural Network (CNN)** trained on the LC25000 dataset, which contains 25,000 histopathological images across five classes:
 
@@ -33,17 +33,17 @@ This project develops an **automated cancer classification system** that identif
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design and train a VGGNet-inspired CNN for multi-class cancer image classification
 - Achieve high classification accuracy on the LC25000 histopathological dataset
-- Implement data preprocessing techniques including normalization, augmentation, and stratification
+- Implement data preprocessing techniques, including normalization, augmentation, and stratification
 - Evaluate model performance using accuracy, precision, recall, F1-score, and confusion matrix
 - Deploy the trained model into a real-time Flask web application for clinical-aid use
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 | Category | Tool / Library |
 |---|---|
@@ -60,7 +60,7 @@ This project develops an **automated cancer classification system** that identif
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 The CNN model consists of **16 layers** inspired by the VGG architecture:
 
@@ -111,7 +111,7 @@ cse299-cancer-classification-group10/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The **LC25000 Dataset** contains 25,000 histopathological images (1.85 GB) split as follows:
 
@@ -125,7 +125,7 @@ Stratification was applied using `train_test_split` to maintain class balance ac
 
 ---
 
-## 📅 Project Timeline Tentative
+##  Project Timeline Tentative
 
 | Week | Milestone |
 |---|---|
@@ -140,7 +140,7 @@ Stratification was applied using `train_test_split` to maintain class balance ac
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 ```bash
