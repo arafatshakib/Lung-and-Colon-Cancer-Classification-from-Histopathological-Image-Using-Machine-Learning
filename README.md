@@ -1,4 +1,4 @@
-# 🫁 Lung and Colon Cancer Classification from Histopathological Image Using Machine Learning 
+#  Lung and Colon Cancer Classification from Histopathological Image Using Machine Learning 
 
 
 **Course:** CSE 440 — Artificial Intelligence
@@ -24,11 +24,11 @@
 
 This project develops an **automated cancer classification system** that identifies lung and colon cancer types from histopathological images using a deep learning model. The system is built on a **VGGNet-inspired Convolutional Neural Network (CNN)** trained on the LC25000 dataset, which contains 25,000 histopathological images across five classes:
 
-- 🔴 Colon Adenocarcinoma
-- 🟢 Colon Benign Tissue
-- 🔵 Lung Adenocarcinoma
-- 🟡 Lung Squamous Cell Carcinoma
-- ⚪ Lung Benign Tissue
+-  Colon Adenocarcinoma
+-  Colon Benign Tissue
+-  Lung Adenocarcinoma
+-  Lung Squamous Cell Carcinoma
+-  Lung Benign Tissue
 
 
 ---
@@ -164,7 +164,7 @@ scikit-learn
 ---
 
 
-## 📝 License
+##  License
 
 This project is developed for **academic purposes** under CSE 440 at North South University. All rights reserved by the group members.
 
